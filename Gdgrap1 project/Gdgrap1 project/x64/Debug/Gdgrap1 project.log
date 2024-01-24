@@ -1,0 +1,3 @@
+﻿  Gdgrap1 project.cpp
+E:\dlsu files\gdgrap1\Gdgrap1 project\Gdgrap1 project.cpp(109,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Gdgrap1 project.vcxproj -> E:\dlsu files\gdgrap1\Gdgrap1 project\x64\Debug\Gdgrap1 project.exe
